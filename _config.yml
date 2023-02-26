@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Dr. Shujie Yang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral Associate"
   location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=MG6PLhIAAAAJ"
+  employer         : "Harvard Medical School"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=MG6PLhIAAAAJ"
+  researchgate     : "https://www.researchgate.net/profile/Shujie-Yang-5"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   uri              :
   bitbucket        :
   codepen          :
