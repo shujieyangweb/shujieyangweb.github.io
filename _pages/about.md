@@ -21,5 +21,5 @@ News
 ======
 
 * 2022/05/06- Shujie won the [Outstanding Dissertation Award](https://pratt.duke.edu/about/news/duke-engineering-celebrates-class-2022) at Duke University. Congratulations!
-* 2022/03/24- Shujie's article "[Harmonic acoustics for dynamic and selective particle manipulation](https://www.nature.com/articles/s41563-022-01210-8)" has been published in Nature Materials (“Highly Cited Paper” by Web of Science—top 1% of highest cited papers in Materials Science). Congratulations!
+* 2022/03/24- Shujie's article "[Harmonic acoustics for dynamic and selective particle manipulation](https://www.nature.com/articles/s41563-022-01210-8)" was published in Nature Materials (“Highly Cited Paper” by Web of Science—top 1% of highest cited papers in Materials Science). Congratulations!
 * 2022/03/14- Shujie won the [Postdoctoral Professional Development Award](https://postdoc.duke.edu/2022-duke-postdoctoral-professional-development-award-winners) at Duke University. Congratulations! 
