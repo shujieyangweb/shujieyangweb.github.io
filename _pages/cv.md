@@ -11,21 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* Ph.D in Mechanical Engineering and Materials Science, Duke University, 2021
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022.1-2023.3: Postdoctoral Associate, Department of Mechanical Engineering and Materials Science (MEMS), Duke University
+* 2016.8-2021.12: Research Assistant, Department of Mechanical Engineering and Materials Science (MEMS), Duke University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
 Skills
 ======
