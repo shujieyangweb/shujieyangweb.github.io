@@ -89,7 +89,7 @@ author:
   email            :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=MG6PLhIAAAAJ"
   researchgate     : "https://www.researchgate.net/profile/Shujie-Yang-5"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   uri              :
   bitbucket        :
   codepen          :
@@ -104,7 +104,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0003-2626-3397"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
