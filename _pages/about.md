@@ -19,5 +19,7 @@ Research Interests
 
 News
 ======
-2022/5/13- Nature Materials paper was finally published!
 
+2022/05/06- Shujie won the Outstanding Dissertation Award at Duke University. Congratulations!
+2022/03/24- Shujie's article "Harmonic acoustics for dynamic and selective particle manipulation" has been published in Nature Materials. Congratulations!
+2022/03/14- Shujie won the Postdoctoral Professional Development Award at Duke University. Congratulations! 
