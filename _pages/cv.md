@@ -13,7 +13,7 @@ Education
 ======
 
 * Ph.D in Mechanical Engineering and Materials Science, Duke University, 2021
-* M.S. in Microelectronics and Nanoelectronics, Tsinghua University, 2015
+* M.S. in Integrated Circuit Engineering, Tsinghua University, 2015
 * B.S. in Mechanical Design Manufacturing and Automation, Harbin Institute of Technology, 2011
 
 
