@@ -20,16 +20,15 @@ Education
 
 Work experience
 ======
-* 2023.03-now: Harvard Medical School
-    * Postdoctoral Associate 
-* 2022.01-2023.03: Thomas Lord Department of Mechanical Engineering and Materials Science, Duke University
-    * Postdoctoral Associate
-* 2016.08-2021.12: Thomas Lord Department of Mechanical Engineering and Materials Science, Duke University
-    * Research Assistant
-* 2016.01-2016.07: Department of Engineering Science and Mechanics, Pennsylvania State University
-    * Research Assistant
-* 2012.09-2015.12: Department of Microelectronics and Nanoelectronics, Tsinghua University
-    * Research Assistant
+* Harvard Medical School
+    * 2023.03-present: Postdoctoral Associate 
+* Thomas Lord Department of Mechanical Engineering and Materials Science, Duke University
+    * 2022.01-2023.03: Postdoctoral Associate
+    * 2016.08-2021.12: Research Assistant
+* Department of Engineering Science and Mechanics, Pennsylvania State University
+    * 2016.01-2016.07: Research Assistant
+* Department of Microelectronics and Nanoelectronics, Tsinghua University
+    * 2012.09-2015.12: Research Assistant
 
   
 
