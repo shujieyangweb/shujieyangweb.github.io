@@ -1,13 +1,13 @@
 ---
 title: "Acoustofluidic Fluorescence-activated Sorter"
 collection: talks
-type: "Talk"
+type: 
 permalink: /talks/2014-02-01-talk-2
-venue: "London School of Testing"
-date: 2014-02-01
-location: "London, UK"
+venue: 
+date: 2023-02-26
+
 ---
 
-[More information here](http://example2.com)
-
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+* Acoustofluidic based fluorescence-activated droplet sorter 
+* High-throughput acoustofluidic based fluorescence-activated cell sorter
+* Acoustofluidic flow cytometry 
