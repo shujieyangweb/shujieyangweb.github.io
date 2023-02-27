@@ -21,5 +21,5 @@ News
 ======
 
 * 2022/05/06- I won the [_Outstanding Dissertation Award_](https://pratt.duke.edu/about/news/duke-engineering-celebrates-class-2022) at Duke University. Congratulations!
-* 2022/03/24- My article "[_Harmonic acoustics for dynamic and selective particle manipulation_](https://www.nature.com/articles/s41563-022-01210-8)" was published in _**Nature Materials**_ (“Highly Cited Paper” by Web of Science—top 1% of highest cited papers in Materials Science). Congratulations!
+* 2022/03/24- My article "[_Harmonic acoustics for dynamic and selective particle manipulation_](https://www.nature.com/articles/s41563-022-01210-8)" (“Highly Cited Paper” by Web of Science—top 1% of highest cited papers in Materials Science) was published in _**Nature Materials**_. Congratulations!
 * 2022/03/14- I won the [_Postdoctoral Professional Development Award_](https://postdoc.duke.edu/2022-duke-postdoctoral-professional-development-award-winners) at Duke University. Congratulations! 
