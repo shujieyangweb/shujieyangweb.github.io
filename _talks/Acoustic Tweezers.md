@@ -8,5 +8,5 @@ date: 2023-02-26
 
 ---
 
-* Single-cell analysis 
-* Theranostics 
+* Acoustic tweezers for single-cell analysis 
+* Acoustic tweezers in theranostics 
