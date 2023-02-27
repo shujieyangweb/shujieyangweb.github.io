@@ -12,11 +12,14 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Mechanical Engineering and Materials Science, Duke University, 2021
+* Duke University, 2021
+    * Ph.D. in Mechanical Engineering and Materials Science 
     * Advisor: [Prof. Tony Jun Huang](https://acoustofluidics.pratt.duke.edu/people/tony-jun-huang)
-* M.S. in Integrated Circuit Engineering, Tsinghua University, 2015
+* Tsinghua University, 2015
+    * M.S. in Integrated Circuit Engineering
     * Advisor: [Prof. Zheyao Wang](https://main.ime.tsinghua.edu.cn/members.html)
-* B.S. in Mechanical Design Manufacturing and Automation, Harbin Institute of Technology, 2011
+* Harbin Institute of Technology, 2011
+    * B.S. in Mechanical Design Manufacturing and Automation
 
 Work experience
 ======
