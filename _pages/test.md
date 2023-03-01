@@ -1,6 +1,6 @@
 ---
 permalink: /test/
-title: "test"
+title: "Test"
 author_profile: true
 redirect_from: 
   - /md/
