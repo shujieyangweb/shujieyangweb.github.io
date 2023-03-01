@@ -19,7 +19,7 @@ Publications
 1. Shujie Yang, Zhenhua Tian, Zeyu Wang, Joseph Rufo, Peng Li, John Mai, Jianping Xia, Hunter Bachman, Po-Hsun Huang, Mengxi Wu, Chuyi Chen, Luke P. Lee, and Tony Jun Huang, “Harmonic acoustics for dynamic and selective particle manipulation”, Nature Materials, 21, 540–546, 2022. (“Highly Cited Paper” by Web of Science—top 1% of highest cited papers in Materials Science)
 2. Zhenhua Tian#, Shujie Yang#, Po-Hsun Huang, Zeyu Wang, Peiran Zhang, Yuyang Gu, Hunter Bachman, Chuyi Chen, Mengxi Wu, Yangbo Xie and Tony Jun Huang, “Wave number–spiral acoustic tweezers for dynamic and reconfigurable manipulation of particles and cells”, Science Advances, 5(5), eaau6062, 2019. (#Equal contributions)
 3. Putong Kang#, Zhenhua Tian#, Shujie Yang#, Wenzhuo Yu, Haodong Zhu, Hunter Bachman, Shuaiguo Zhao, Peiran Zhang, Zeyu Wang, Ruoyu Zhong, and Tony Jun Huang, “Acoustic tweezers based on circular, slanted-finger interdigital transducers for dynamic manipulation of micro-objects”, Lab on a Chip, 20(5), 987-994, 2020. (#Equal contributions)
-4. Yusheng Bian#, Feng Guo#, Shujie Yang#, Zhangming Mao, Hunter Bachman, Shi‑Yang Tang, Liqiang Ren, Bin Zhang, Jianying Gong, Xiasheng Guo, and Tony Jun Huang, “Acoustofluidic waveguides for localized control of acoustic wavefront in microfluidics”, Microfluidics and Nanofluidics, 21, 132, 2017. (#Equal contributions)
+
 
 7. Liang Shen, Zhenhua Tian, Jinxin Zhang, Haodong Zhu, Kaichun Yang, Teng Li, Joseph Rich, Neil Upreti, Nanjing Hao, Zhichao Pei, Geonsoo Jin, Shujie Yang, Yaosi Liang, Wang Chaohui, Tony Jun Huang, “Acousto-dielectric tweezers for size-insensitive manipulation and biophysical characterization of single cells”, Biosensors and Bioelectronics, 224, 115061, 2023.
 8. Jinxin Zhang, Chuyi Chen, Ryan Becker, Joseph Rufo, Shujie Yang, John Mai, Peiran Zhang, Yuyang Gu, Zeyu Wang, Zhehan Ma, Jianping Xia, Nanjing Hao, Zhenhua Tian, David T. W. Wong, Yoel Sadovsky, Luke P. Lee, and Tony Jun Huang, “A Solution to the Biophysical Fractionation of Extracellular Vesicles: Acoustic Nanoscale Separation via Wave-pillar Excitation Resonance (ANSWER)”, Science Advances, 8, eade0640, 2022.
@@ -48,14 +48,16 @@ Publications
 31. Liqiang Ren, Shujie Yang, Peiran Zhang, Zhiguo Qu, Zhangming Mao, Po-Hsun Huang, Yuchao Chen, Mengxi Wu, Lin Wang, Peng Li, and Tony Jun Huang, “Standing Surface Acoustic Wave (SSAW)-Based Fluorescence-Activated Cell Sorter”, Small, 14(40), 1801996, 2018. (Featured as front cover image)
 32. Steven Peiran Zhang, James Lata, Chuyi Chen, John Mai, Feng Guo, Zhenhua Tian, Liqiang Ren, Zhangming Mao, Po-Hsun Huang, Peng Li, Shujie Yang, and Tony Jun Huang, “Digital Acoustofluidics Enables Contactless and Programmable Liquid Handling”, Nature Communications, 9, 2928, 2018.
 33. Hunter Bachman, Po-Hsun Huang, Shuaiguo Zhao, Shujie Yang, Peiran Zhang, Hai Fu, and Tony Jun Huang, “Acoustofluidic Devices Controlled by Cell Phones”, Lab on a Chip, 18, 387-542, 2018. (Featured as front cover image)
-34. Xingjun Xue, Shujie Yang, Zheyao Wang, “Heat-depolymerizable polypropylene carbonate as a temporary bonding adhesive for fabrication of flexible silicon sensor chips”, IEEE Transactions on Components, Packaging and Manufacturing Technology, 7(11), 1751-1758, 2017.
 
+## 2017
+7. Xingjun Xue, Shujie Yang, Zheyao Wang, “Heat-depolymerizable polypropylene carbonate as a temporary bonding adhesive for fabrication of flexible silicon sensor chips”, _IEEE Transactions on Components, Packaging and Manufacturing Technology_, 7(11), 1751-1758, 2017.
+6. Yusheng Bian#, Feng Guo#, Shujie Yang#, Zhangming Mao, Hunter Bachman, Shi‑Yang Tang, Liqiang Ren, Bin Zhang, Jianying Gong, Xiasheng Guo, and Tony Jun Huang, “Acoustofluidic waveguides for localized control of acoustic wavefront in microfluidics”, _Microfluidics and Nanofluidics_, 21, 132, 2017. (#Equal contributions)
 
 ## 2016
-5. Hanjun Jiang, Zheyao Wang, Shujie Yang, Heng Liu, Zhihua Wang, “CMOS wireless stress sensor IC with 256-cell sensing array for ultra-thin applications”, Electronics Letters, 52(20), 1660-1661, 2016.
-4. Xingjun Xue, Shujie Yang, Dong Wu, Liyang Pan, Zheyao Wang, “Fabrication of ultra-thin silicon chips using thermally decomposable temporary bonding adhesive”, IEEE Sensors, 1-3, 2016.
+5. Hanjun Jiang, Zheyao Wang, Shujie Yang, Heng Liu, Zhihua Wang, “CMOS wireless stress sensor IC with 256-cell sensing array for ultra-thin applications”, _Electronics Letters_, 52(20), 1660-1661, 2016.
+4. Xingjun Xue, Shujie Yang, Dong Wu, Liyang Pan, Zheyao Wang, “Fabrication of ultra-thin silicon chips using thermally decomposable temporary bonding adhesive”, _IEEE Sensors_, 1-3, 2016.
 
 ## 2015
-3. Shujie Yang, Dong Wu, Zheyao Wang, Xiaoming Li, “A CMOS stress sensor chip with integrated signal processing circuits”, IEEE Sensors, 1-4, 2015.
-2. Shujie Yang, Pai Zhao, Zhen Song, Zheyao Wang, “The flexible package and applications of ultra-thin sensor chip”, IEEE International Conference on Electronic Packaging Technology, 1083-1085, 2015.
-1. Zhen Song, Yuxin Du, Miao Liu, Shujie Yang, Dong Wu, Zheyao Wang, “Three-dimensional integration of suspended single-crystalline silicon MEMS arrays with CMOS”, IEEE MEMS, 304-307, 2015.
+3. Shujie Yang, Dong Wu, Zheyao Wang, Xiaoming Li, “A CMOS stress sensor chip with integrated signal processing circuits”, _IEEE Sensors_, 1-4, 2015.
+2. Shujie Yang, Pai Zhao, Zhen Song, Zheyao Wang, “The flexible package and applications of ultra-thin sensor chip”, _IEEE International Conference on Electronic Packaging Technology_, 1083-1085, 2015.
+1. Zhen Song, Yuxin Du, Miao Liu, Shujie Yang, Dong Wu, Zheyao Wang, “Three-dimensional integration of suspended single-crystalline silicon MEMS arrays with CMOS”, _IEEE MEMS_, 304-307, 2015.
