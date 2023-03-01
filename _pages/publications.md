@@ -14,7 +14,7 @@ Selected Publications
  * Featured in _Duke-Pratt School of Engineering_: “Cells dancing to harmonic duets could enable personalized cancer therapies”.
 2. Zhenhua Tian#, Shujie Yang#, Po-Hsun Huang, Zeyu Wang, Peiran Zhang, Yuyang Gu, Hunter Bachman, Chuyi Chen, Mengxi Wu, Yangbo Xie and Tony Jun Huang, “Wave number–spiral acoustic tweezers for dynamic and reconfigurable manipulation of particles and cells”, _Science Advances_, 5(5), eaau6062, 2019. (#Equal contributions)
 
-Publications
+Publications (By Year)
 ======
 
 ## 2023
