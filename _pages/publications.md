@@ -17,7 +17,7 @@ Selected Publications
 Publications
 ======
 1. Shujie Yang, Zhenhua Tian, Zeyu Wang, Joseph Rufo, Peng Li, John Mai, Jianping Xia, Hunter Bachman, Po-Hsun Huang, Mengxi Wu, Chuyi Chen, Luke P. Lee, and Tony Jun Huang, “Harmonic acoustics for dynamic and selective particle manipulation”, Nature Materials, 21, 540–546, 2022. (“Highly Cited Paper” by Web of Science—top 1% of highest cited papers in Materials Science)
-2. Zhenhua Tian#, Shujie Yang#, Po-Hsun Huang, Zeyu Wang, Peiran Zhang, Yuyang Gu, Hunter Bachman, Chuyi Chen, Mengxi Wu, Yangbo Xie and Tony Jun Huang, “Wave number–spiral acoustic tweezers for dynamic and reconfigurable manipulation of particles and cells”, Science Advances, 5(5), eaau6062, 2019. (#Equal contributions)
+
 3. Putong Kang#, Zhenhua Tian#, Shujie Yang#, Wenzhuo Yu, Haodong Zhu, Hunter Bachman, Shuaiguo Zhao, Peiran Zhang, Zeyu Wang, Ruoyu Zhong, and Tony Jun Huang, “Acoustic tweezers based on circular, slanted-finger interdigital transducers for dynamic manipulation of micro-objects”, Lab on a Chip, 20(5), 987-994, 2020. (#Equal contributions)
 
 
@@ -38,26 +38,30 @@ Publications
 21. Hunter Bachman, Yuyang Gu, Joseph Rufo, Shujie Yang, Zhenhua Tian, Po-Hsun Huang, Lingyu Yu, and Tony Jun Huang, “Low-Frequency Flexural Wave Based Microparticle Manipulation”, Lab on a Chip, 20, 1281-1289, 2020.
 22. Hunter Bachman, Chuyi Chen, Joseph Rufo, Shuaiguo Zhao, Shujie Yang, Zhenhua Tian, Nitesh Nama, Po-Hsun Huang, and Tony Jun Huang, “An Acoustofluidic Device for Efficient Mixing Over a Wide Range of Flow Rates”, Lab on a Chip, 20, 1238-1248, 2020.
 23. Zeyu Wang, Feng Li, Joseph Rufo, Chuyi Chen, Shujie Yang, Liang Li, Jinxing Zhang, Yong Kim, Mengxi Wu, Elliot Abemayor, Michael Tu, David Chia, Jordan Cheng, Rachel Spruce, Nikolaos Batis, Hisham Mehanna, David T.W. Wong, and Tony Jun Huang, “Acoustofluidic Salivary Exosome Isolation: A Liquid Biopsy Compatible Approach for Cancer Detection”, The Journal of Molecular Diagnostics, 22, 50-59, 2020.
-24. Zeyu Wang, Po-Hsun Huang, Chuyi Chen, Hunter Bachman, Shuaiguo Zhao, Shujie Yang, and Tony Jun Huang, “Cell lysis via acoustically oscillating sharp edges”, Lab on a Chip, 19, 4021-4032, 2019.
-25. Peiran Zhang, Chuyi Chena, Feng Guo, Julien Philippec, Yuyang Gu, Zhenhua Tian, Hunter Bachman, Liqiang Ren, Shujie Yang, Zhanwei Zhong, Po-Hsun Huang, Nicholas Katsanis, Krishnendu Chakrabarty, and Tony Jun Huang, “Contactless, programmable acoustofluidic manipulation of objects on water”, Lab on a Chip, 19, 3397-3404, 2019. (Featured as front cover image)
-26. Po-Hsun Huang, Shuaiguo Zhao, Hunter Bachman, Nitesh Nama, Zhishang Li, Chuyi Chen, Shujie Yang, Mengxi Wu, Steven Peiran Zhang, and Tony Jun Huang, “Acoustofluidic synthesis of particulate nanomaterials”, Advanced Science, 1900913, 2019. (Featured as front cover image)
-27. Hunter Bachman, Hai Fu, Po-Hsun Huang, Zhenhua Tian, Jonah Embry-Seckler, Joseph Rufo, Zhemiao Xie, Jessica H. Hartman, Shuaiguo Zhao, Shujie Yang, Joel N. Meyer, and Tony Jun Huang, “Open Source Acoustofluidics”, Lab on a Chip, 19, 2404-2414, 2019.
-28. Shuaiguo Zhao, Weihua He, Zhehan Ma, Peiyao Liu, Po-Hsun Huang, Hunter Bachman, Lin Wang, Shujie Yang, Zhenhua Tian, Zeyu Wang, Yuyang Gu, Zhemiao Xie, and Tony Jun Huang, “On-Chip stool liquefaction via acoustofluidics”, Lab on a Chip, 19, 941-947, 2019. (Featured as front cover image, top 10% of papers published in Lab on a Chip)
-29. Jinxin Zhang, Shujie Yang, Chuyi Chen, Jessica H. Hartman, Po-Hsun Huang, Lin Wang, Zhenhua Tian, Steven Peiran Zhang, David Faulkenberry, Joel N. Meyer, and Tony Jun Huang, “Surface acoustic waves enable rotational manipulation of Caenorhabditis elegans”, Lab on a Chip, 19, 984-992, 2019.
-30. Mengxi Wu, Kejie Chen, Shujie Yang, Zeyu Wang, Po-Hsun Huang, John Mai, Zeng-Yao Li, and Tony Jun Huang, “High-throughput cell focusing and separation via acoustofluidic tweezers”, Lab on a Chip, 18, 3003-3010, 2018.
-31. Liqiang Ren, Shujie Yang, Peiran Zhang, Zhiguo Qu, Zhangming Mao, Po-Hsun Huang, Yuchao Chen, Mengxi Wu, Lin Wang, Peng Li, and Tony Jun Huang, “Standing Surface Acoustic Wave (SSAW)-Based Fluorescence-Activated Cell Sorter”, Small, 14(40), 1801996, 2018. (Featured as front cover image)
-32. Steven Peiran Zhang, James Lata, Chuyi Chen, John Mai, Feng Guo, Zhenhua Tian, Liqiang Ren, Zhangming Mao, Po-Hsun Huang, Peng Li, Shujie Yang, and Tony Jun Huang, “Digital Acoustofluidics Enables Contactless and Programmable Liquid Handling”, Nature Communications, 9, 2928, 2018.
-33. Hunter Bachman, Po-Hsun Huang, Shuaiguo Zhao, Shujie Yang, Peiran Zhang, Hai Fu, and Tony Jun Huang, “Acoustofluidic Devices Controlled by Cell Phones”, Lab on a Chip, 18, 387-542, 2018. (Featured as front cover image)
+
+
+## 2019
+18. Po-Hsun Huang, Shuaiguo Zhao, Hunter Bachman, Nitesh Nama, Zhishang Li, Chuyi Chen, Shujie Yang, Mengxi Wu, Steven Peiran Zhang, and Tony Jun Huang, “Acoustofluidic synthesis of particulate nanomaterials”, _Advanced Science_, 1900913, 2019. (_Featured as front cover image_)
+17. Zhenhua Tian#, Shujie Yang#, Po-Hsun Huang, Zeyu Wang, Peiran Zhang, Yuyang Gu, Hunter Bachman, Chuyi Chen, Mengxi Wu, Yangbo Xie and Tony Jun Huang, “Wave number–spiral acoustic tweezers for dynamic and reconfigurable manipulation of particles and cells”, _Science Advances_, 5(5), eaau6062, 2019. (#Equal contributions)
+16. Zeyu Wang, Po-Hsun Huang, Chuyi Chen, Hunter Bachman, Shuaiguo Zhao, Shujie Yang, and Tony Jun Huang, “Cell lysis via acoustically oscillating sharp edges”, _Lab on a Chip_, 19, 4021-4032, 2019.
+15. Peiran Zhang, Chuyi Chena, Feng Guo, Julien Philippec, Yuyang Gu, Zhenhua Tian, Hunter Bachman, Liqiang Ren, Shujie Yang, Zhanwei Zhong, Po-Hsun Huang, Nicholas Katsanis, Krishnendu Chakrabarty, and Tony Jun Huang, “Contactless, programmable acoustofluidic manipulation of objects on water”, _Lab on a Chip_, 19, 3397-3404, 2019. (_Featured as front cover image_)
+14. Hunter Bachman, Hai Fu, Po-Hsun Huang, Zhenhua Tian, Jonah Embry-Seckler, Joseph Rufo, Zhemiao Xie, Jessica H. Hartman, Shuaiguo Zhao, Shujie Yang, Joel N. Meyer, and Tony Jun Huang, “Open Source Acoustofluidics”, _Lab on a Chip_, 19, 2404-2414, 2019.
+13. Jinxin Zhang, Shujie Yang, Chuyi Chen, Jessica H. Hartman, Po-Hsun Huang, Lin Wang, Zhenhua Tian, Steven Peiran Zhang, David Faulkenberry, Joel N. Meyer, and Tony Jun Huang, “Surface acoustic waves enable rotational manipulation of Caenorhabditis elegans”, _Lab on a Chip_, 19, 984-992, 2019.
+12. Shuaiguo Zhao, Weihua He, Zhehan Ma, Peiyao Liu, Po-Hsun Huang, Hunter Bachman, Lin Wang, Shujie Yang, Zhenhua Tian, Zeyu Wang, Yuyang Gu, Zhemiao Xie, and Tony Jun Huang, “On-Chip stool liquefaction via acoustofluidics”, _Lab on a Chip_, 19, 941-947, 2019. (_Featured as front cover image, top 10% of papers published in Lab on a Chip_)
+
+## 2018
+11. Mengxi Wu, Kejie Chen, Shujie Yang, Zeyu Wang, Po-Hsun Huang, John Mai, Zeng-Yao Li, and Tony Jun Huang, “High-throughput cell focusing and separation via acoustofluidic tweezers”, _Lab on a Chip_, 18, 3003-3010, 2018.
+10. Liqiang Ren, Shujie Yang, Peiran Zhang, Zhiguo Qu, Zhangming Mao, Po-Hsun Huang, Yuchao Chen, Mengxi Wu, Lin Wang, Peng Li, and Tony Jun Huang, “Standing Surface Acoustic Wave (SSAW)-Based Fluorescence-Activated Cell Sorter”, _Small_, 14(40), 1801996, 2018. (_Featured as front cover image_)
+9. Steven Peiran Zhang, James Lata, Chuyi Chen, John Mai, Feng Guo, Zhenhua Tian, Liqiang Ren, Zhangming Mao, Po-Hsun Huang, Peng Li, Shujie Yang, and Tony Jun Huang, “Digital Acoustofluidics Enables Contactless and Programmable Liquid Handling”, _Nature Communications_, 9, 2928, 2018.
+8. Hunter Bachman, Po-Hsun Huang, Shuaiguo Zhao, Shujie Yang, Peiran Zhang, Hai Fu, and Tony Jun Huang, “Acoustofluidic Devices Controlled by Cell Phones”, _Lab on a Chip_, 18, 387-542, 2018. (_Featured as front cover image_)
 
 ## 2017
 7. Xingjun Xue, Shujie Yang, Zheyao Wang, “Heat-depolymerizable polypropylene carbonate as a temporary bonding adhesive for fabrication of flexible silicon sensor chips”, _IEEE Transactions on Components, Packaging and Manufacturing Technology_, 7(11), 1751-1758, 2017.
 6. Yusheng Bian#, Feng Guo#, Shujie Yang#, Zhangming Mao, Hunter Bachman, Shi‑Yang Tang, Liqiang Ren, Bin Zhang, Jianying Gong, Xiasheng Guo, and Tony Jun Huang, “Acoustofluidic waveguides for localized control of acoustic wavefront in microfluidics”, _Microfluidics and Nanofluidics_, 21, 132, 2017. (#Equal contributions)
 
-## 2016
+## Before 2016
 5. Hanjun Jiang, Zheyao Wang, Shujie Yang, Heng Liu, Zhihua Wang, “CMOS wireless stress sensor IC with 256-cell sensing array for ultra-thin applications”, _Electronics Letters_, 52(20), 1660-1661, 2016.
 4. Xingjun Xue, Shujie Yang, Dong Wu, Liyang Pan, Zheyao Wang, “Fabrication of ultra-thin silicon chips using thermally decomposable temporary bonding adhesive”, _IEEE Sensors_, 1-3, 2016.
-
-## 2015
 3. Shujie Yang, Dong Wu, Zheyao Wang, Xiaoming Li, “A CMOS stress sensor chip with integrated signal processing circuits”, _IEEE Sensors_, 1-4, 2015.
 2. Shujie Yang, Pai Zhao, Zhen Song, Zheyao Wang, “The flexible package and applications of ultra-thin sensor chip”, _IEEE International Conference on Electronic Packaging Technology_, 1083-1085, 2015.
 1. Zhen Song, Yuxin Du, Miao Liu, Shujie Yang, Dong Wu, Zheyao Wang, “Three-dimensional integration of suspended single-crystalline silicon MEMS arrays with CMOS”, _IEEE MEMS_, 304-307, 2015.
