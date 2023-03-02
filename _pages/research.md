@@ -10,7 +10,7 @@ author_profile: true
 * Acoustic tweezers in theranostics
 
 ## Acoustofluidic Fluorescence-activated Sorter
-* Acoustofluidic based fluorescence-activated droplet sorter
+* Acoustofluidic based fluorescence-activated droplet sorter (FADS)
 * Acoustofluidic based fluorescence-activated _C.elegans_ sorter
-* High-throughput fluorescence-activated cell sorter
+* High-throughput fluorescence-activated cell sorter (FACS)
 * Acoustofluidic flow cytometry
