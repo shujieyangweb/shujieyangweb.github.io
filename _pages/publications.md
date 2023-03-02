@@ -6,25 +6,16 @@ author_profile: true
 ---
 You can find more about my research on [Google Scholar](https://scholar.google.com/citations?hl=en&user=MG6PLhIAAAAJ) profile and [ResearchGate](https://www.researchgate.net/profile/Shujie-Yang-5) profile.
 
-Selected Publications
-======
-
-1. <ins>Shujie Yang</ins>, Zhenhua Tian, Zeyu Wang, Joseph Rufo, Peng Li, John Mai, Jianping Xia, Hunter Bachman, Po-Hsun Huang, Mengxi Wu, Chuyi Chen, Luke P. Lee, and Tony Jun Huang, “Harmonic acoustics for dynamic and selective particle manipulation”, _Nature Materials_, 21, 540–546, 2022. (_“Highly Cited Paper” by Web of Science—top 1% of highest cited papers in Materials Science_)
- * Featured in _Nature Materials_: “Handy nanoquakes”, _Nature Materials_ 21, 499–501 (2022).
- * Featured in _Duke-Pratt School of Engineering_: “Cells dancing to harmonic duets could enable personalized cancer therapies”.
-2. Zhenhua Tian#, <ins>Shujie Yang#</ins>, Po-Hsun Huang, Zeyu Wang, Peiran Zhang, Yuyang Gu, Hunter Bachman, Chuyi Chen, Mengxi Wu, Yangbo Xie and Tony Jun Huang, “Wave number–spiral acoustic tweezers for dynamic and reconfigurable manipulation of particles and cells”, _Science Advances_, 5(5), eaau6062, 2019. (#Equal contributions)
-
-
-Publications (By Year)
-======
 ## 2023
 37. Liang Shen, Zhenhua Tian, Jinxin Zhang, Haodong Zhu, Kaichun Yang, Teng Li, Joseph Rich, Neil Upreti, Nanjing Hao, Zhichao Pei, Geonsoo Jin, <ins>Shujie Yang</ins>, Yaosi Liang, Wang Chaohui, Tony Jun Huang, “Acousto-dielectric tweezers for size-insensitive manipulation and biophysical characterization of single cells”, _Biosensors and Bioelectronics_, 224, 115061, 2023.
 
 ## 2022
 36. Jinxin Zhang, Chuyi Chen, Ryan Becker, Joseph Rufo, <ins>Shujie Yang</ins>, John Mai, Peiran Zhang, Yuyang Gu, Zeyu Wang, Zhehan Ma, Jianping Xia, Nanjing Hao, Zhenhua Tian, David T. W. Wong, Yoel Sadovsky, Luke P. Lee, and Tony Jun Huang, “A Solution to the Biophysical Fractionation of Extracellular Vesicles: Acoustic Nanoscale Separation via Wave-pillar Excitation Resonance (ANSWER)”, _Science Advances_, 8, eade0640, 2022.
 35. <ins>Shujie Yang</ins>, Zhenhua Tian, Zeyu Wang, Joseph Rufo, Peng Li, John Mai, Jianping Xia, Hunter Bachman, Po-Hsun Huang, Mengxi Wu, Chuyi Chen, Luke P. Lee, and Tony Jun Huang, “Harmonic acoustics for dynamic and selective particle manipulation”, _Nature Materials_, 21, 540–546, 2022. (_“Highly Cited Paper” by Web of Science—top 1% of highest cited papers in Materials Science_)
-34. Zeyu Wang, Joseph Rich, Nanjing Hao, Yuyang Gu, Chuyi Chen, <ins>Shujie Yang</ins>, Peiran Zhang, and Tony Jun Huang, “Acoustofluidics for Simultaneous Nanoparticle-based Drug Loading and Exosome Encapsulation”, _Microsystems & Nanoengineering_, 8, 45, 2022.
-33. Nanjing Hao, Zeyu Wang, Pengzhan Liu, Ryan Becker, <ins>Shujie Yang</ins>, Kaichun Yang, Zhichao Pei, Peiran Zhang, Jianping Xia, Liang Shen, Lin Wang, Kathleen A. Welsh-Bohmer, Laurie Sanders, Luke P. Lee, and Tony Jun Huang, “Acoustofluidic Multimodal Diagnostic System for Alzheimer’s Disease”, _Biosensors and Bioelectronics_, 196, 113730, 2022.
+  * Featured in _Nature Materials_: “Handy nanoquakes”, _Nature Materials_ 21, 499–501 (2022).
+  * Featured in _Duke-Pratt School of Engineering_: “Cells dancing to harmonic duets could enable personalized cancer therapies”.
+37. Zeyu Wang, Joseph Rich, Nanjing Hao, Yuyang Gu, Chuyi Chen, <ins>Shujie Yang</ins>, Peiran Zhang, and Tony Jun Huang, “Acoustofluidics for Simultaneous Nanoparticle-based Drug Loading and Exosome Encapsulation”, _Microsystems & Nanoengineering_, 8, 45, 2022.
+38. Nanjing Hao, Zeyu Wang, Pengzhan Liu, Ryan Becker, <ins>Shujie Yang</ins>, Kaichun Yang, Zhichao Pei, Peiran Zhang, Jianping Xia, Liang Shen, Lin Wang, Kathleen A. Welsh-Bohmer, Laurie Sanders, Luke P. Lee, and Tony Jun Huang, “Acoustofluidic Multimodal Diagnostic System for Alzheimer’s Disease”, _Biosensors and Bioelectronics_, 196, 113730, 2022.
 
 ## 2021
 32. Ruoyu Zhong, <ins>Shujie Yang</ins>, Giovanni Stefano Ugolini, Ty Naquin, Jinxin Zhang, Kaichun Yang, Jianping Xia, Tania Konry, and Tony Jun Huang, “Acoustofluidic Droplet Sorter Based on Single Phase Focused Transducers”, _Small_, 2103848, 2021. (_Featured as front cover image_)
