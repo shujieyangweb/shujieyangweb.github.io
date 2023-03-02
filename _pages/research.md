@@ -11,5 +11,6 @@ author_profile: true
 
 ## Acoustofluidic Fluorescence-activated Sorter
 * Acoustofluidic based fluorescence-activated droplet sorter
+* Acoustofluidic based fluorescence-activated _C.elegans_ sorter
 * High-throughput acoustofluidic based fluorescence-activated cell sorter
 * Acoustofluidic flow cytometry
