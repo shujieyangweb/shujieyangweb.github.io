@@ -9,10 +9,7 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Gallery"
-    url: /portfolio/
-        
+           
   - title: "CV"
     url: /cv/
 
