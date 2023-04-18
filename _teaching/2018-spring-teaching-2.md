@@ -1,5 +1,5 @@
 ---
-title: "ME 535: Biomedical Microsystems"
+title: "Teaching Assistant: ME 535 Biomedical Microsystems"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2018-spring-teaching-1
