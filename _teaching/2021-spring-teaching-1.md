@@ -1,5 +1,5 @@
 ---
-title: "ME 336L: Fluid Mechanics"
+title: "Teaching Assistant: ME 336L Fluid Mechanics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-spring-teaching-1
