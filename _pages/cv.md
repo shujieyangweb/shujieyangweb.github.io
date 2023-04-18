@@ -23,8 +23,8 @@ Education
 
 Work experience
 ======
-* Harvard Medical School
-    * 2023.03-present: Postdoctoral Associate 
+* Harvard Medical School, Brigham and Women's Hospital
+    * 2023.03-present: Postdoctoral Research Fellow 
 * Thomas Lord Department of Mechanical Engineering and Materials Science, Duke University
     * 2022.01-2023.03: Postdoctoral Associate
     * 2016.08-2021.12: Research Assistant
