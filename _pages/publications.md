@@ -13,7 +13,7 @@ You can find more about my research on [Google Scholar](https://scholar.google.c
 ## 2022
 36. Jinxin Zhang, Chuyi Chen, Ryan Becker, Joseph Rufo, **Shujie Yang**, John Mai, Peiran Zhang, Yuyang Gu, Zeyu Wang, Zhehan Ma, Jianping Xia, Nanjing Hao, Zhenhua Tian, David T. W. Wong, Yoel Sadovsky, Luke P. Lee, and Tony Jun Huang, “A Solution to the Biophysical Fractionation of Extracellular Vesicles: Acoustic Nanoscale Separation via Wave-pillar Excitation Resonance (ANSWER)”, _Science Advances_, 8, eade0640, 2022.
 35. **Shujie Yang**, Zhenhua Tian, Zeyu Wang, Joseph Rufo, Peng Li, John Mai, Jianping Xia, Hunter Bachman, Po-Hsun Huang, Mengxi Wu, Chuyi Chen, Luke P. Lee, and Tony Jun Huang, “Harmonic acoustics for dynamic and selective particle manipulation”, _Nature Materials_, 21, 540–546, 2022. 
-  * Highly Cited Paper” by Web of Science—top 1% of highest cited papers in Materials Science.
+  * Highly Cited Paper” by _Web of Science_—top 1% of highest cited papers in _Materials Science_.
   * Featured in _Nature Materials_: “[Handy nanoquakes](https://www.nature.com/articles/s41563-022-01236-y)”, _Nature Materials_ 21, 499–501 (2022).
   * Featured in _Duke-Pratt School of Engineering_: “[Cells dancing to harmonic duets could enable personalized cancer therapies](https://pratt.duke.edu/about/news/harmonic-acoustic-tweezers)”.
 37. Zeyu Wang, Joseph Rich, Nanjing Hao, Yuyang Gu, Chuyi Chen, **Shujie Yang**, Peiran Zhang, and Tony Jun Huang, “Acoustofluidics for Simultaneous Nanoparticle-based Drug Loading and Exosome Encapsulation”, _Microsystems & Nanoengineering_, 8, 45, 2022.
