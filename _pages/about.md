@@ -15,7 +15,7 @@ I have authored/co-authored over 38 peer-reviewed articles published in renowned
 Research Interests
 ======
 * Acoustics
-* Microfluidics
+* Lab on a Chip
 * Acoustofluidics 
 * Biomedical Devices
 
