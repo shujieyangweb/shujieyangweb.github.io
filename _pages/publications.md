@@ -54,7 +54,7 @@ You can find more about my research on [Google Scholar](https://scholar.google.c
 
 ## 2017
 7. Xingjun Xue, **Shujie Yang**, Zheyao Wang, “Heat-depolymerizable polypropylene carbonate as a temporary bonding adhesive for fabrication of flexible silicon sensor chips”, _IEEE Transactions on Components, Packaging and Manufacturing Technology_, 7(11), 1751-1758, 2017.
-6. Yusheng Bian#, Feng Guo#, **Shujie Yang**, Zhangming Mao, Hunter Bachman, Shi‑Yang Tang, Liqiang Ren, Bin Zhang, Jianying Gong, Xiasheng Guo, and Tony Jun Huang, “Acoustofluidic waveguides for localized control of acoustic wavefront in microfluidics”, _Microfluidics and Nanofluidics_, 21, 132, 2017. (#Equal contributions)
+6. Yusheng Bian#, Feng Guo#, **Shujie Yang#**, Zhangming Mao, Hunter Bachman, Shi‑Yang Tang, Liqiang Ren, Bin Zhang, Jianying Gong, Xiasheng Guo, and Tony Jun Huang, “Acoustofluidic waveguides for localized control of acoustic wavefront in microfluidics”, _Microfluidics and Nanofluidics_, 21, 132, 2017. (#Equal contributions)
 
 ## Before 2016
 5. Hanjun Jiang, Zheyao Wang, **Shujie Yang**, Heng Liu, Zhihua Wang, “CMOS wireless stress sensor IC with 256-cell sensing array for ultra-thin applications”, _Electronics Letters_, 52(20), 1660-1661, 2016.
