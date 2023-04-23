@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Guest lectures
+Guest Lecture
 ======
 * ME 535: Biomedical Microsystems 
     * Graduate course, Duke University, Spring, 2023 
