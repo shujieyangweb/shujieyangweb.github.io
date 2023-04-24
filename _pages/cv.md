@@ -24,14 +24,14 @@ Education
 Work experience
 ======
 * Harvard Medical School, Brigham and Women's Hospital
-    * 2023.03-present: Postdoctoral Research Fellow 
+    * 2023.03- present: Postdoctoral Research Fellow 
 * Thomas Lord Department of Mechanical Engineering and Materials Science, Duke University
-    * 2022.01-2023.03: Postdoctoral Associate
+    * 2022.01- 2023.03: Postdoctoral Associate
     * 2016.08-2021.12: Research Assistant
 * Department of Engineering Science and Mechanics, Pennsylvania State University
-    * 2016.01-2016.07: Research Assistant
+    * 2016.01- 2016.07: Research Assistant
 * Department of Microelectronics and Nanoelectronics, Tsinghua University
-    * 2012.09-2015.12: Research Assistant
+    * 2012.09- 2015.12: Research Assistant
 
   
 
