@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-You can find more about my research on [Google Scholar](https://scholar.google.com/citations?hl=en&user=MG6PLhIAAAAJ) profile and [ResearchGate](https://www.researchgate.net/profile/Shujie-Yang-5) profile.
+More about my research can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=MG6PLhIAAAAJ) profile and [ResearchGate](https://www.researchgate.net/profile/Shujie-Yang-5) profile.
 
 ## 2023
 38. **Shujie Yang**, Joseph Rufo, Ruoyu Zhong, Joseph Rich, Zeyu Wang, Luke P. Lee, and Tony Jun Huang, "Acoustic tweezers for high-throughput single-cell analysis", _Nature Protocols_, accepted, 2023.
