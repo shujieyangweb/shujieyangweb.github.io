@@ -7,7 +7,7 @@ author_profile: true
 More about my research can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=MG6PLhIAAAAJ) profile and [ResearchGate](https://www.researchgate.net/profile/Shujie-Yang-5) profile.
 
 ## 2023
-38. **Shujie Yang**, Joseph Rufo, Ruoyu Zhong, Joseph Rich, Zeyu Wang, Luke P. Lee, and Tony Jun Huang, "Acoustic tweezers for high-throughput single-cell analysis", _Nature Protocols_, accepted, 2023.
+38. **Shujie Yang**, Joseph Rufo, Ruoyu Zhong, Joseph Rich, Zeyu Wang, Luke P. Lee, and Tony Jun Huang, "Acoustic tweezers for high-throughput single-cell analysis", _Nature Protocols_, doi.org/10.1038/s41596-023-00844-5, 2023.
 37. Liang Shen, Zhenhua Tian, Jinxin Zhang, Haodong Zhu, Kaichun Yang, Teng Li, Joseph Rich, Neil Upreti, Nanjing Hao, Zhichao Pei, Geonsoo Jin, **Shujie Yang**, Yaosi Liang, Wang Chaohui, Tony Jun Huang, “Acousto-dielectric tweezers for size-insensitive manipulation and biophysical characterization of single cells”, _Biosensors and Bioelectronics_, 224, 115061, 2023.
 
 ## 2022
