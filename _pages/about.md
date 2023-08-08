@@ -24,7 +24,7 @@ Research Interests
 News
 ======
 * 2023/07/27 - I won the [_Microgrant Award_](http://www.bwhresearch.org/microgrants/) from Brigham Research Institute, and served as the principal investigator. 
-* 2023/07/19 - My article "[_Acoustic tweezers for high-throughput single-cell analysis_](https://www.nature.com/articles/s41596-023-00844-5)" was published in _Nature Protocols_. 
+* 2023/07/19 - My article "[_Acoustic tweezers for high-throughput single-cell analysis_](https://www.nature.com/articles/s41596-023-00844-5)" was published in _Nature Protocols_, and featured as [front cover image](https://www.nature.com/nprot/volumes/18/issues/8). 
 * 2022/05/06 - I won the [_Outstanding Dissertation Award_](https://pratt.duke.edu/about/news/duke-engineering-celebrates-class-2022) at Duke University. 
 * 2022/03/24 - My article "[_Harmonic acoustics for dynamic and selective particle manipulation_](https://www.nature.com/articles/s41563-022-01210-8)" was published in _Nature Materials_. 
 * 2022/03/14 - I won the [_Postdoctoral Professional Development Award_](https://postdoc.duke.edu/2022-duke-postdoctoral-professional-development-award-winners) at Duke University. 
