@@ -56,9 +56,11 @@ More about my research can be found on [Google Scholar](https://scholar.google.c
 7. Xingjun Xue, **Shujie Yang**, Zheyao Wang, “Heat-depolymerizable polypropylene carbonate as a temporary bonding adhesive for fabrication of flexible silicon sensor chips”, _IEEE Transactions on Components, Packaging and Manufacturing Technology_, 7(11), 1751-1758, 2017.
 6. Yusheng Bian#, Feng Guo#, **Shujie Yang#**, Zhangming Mao, Hunter Bachman, Shi‑Yang Tang, Liqiang Ren, Bin Zhang, Jianying Gong, Xiasheng Guo, and Tony Jun Huang, “Acoustofluidic waveguides for localized control of acoustic wavefront in microfluidics”, _Microfluidics and Nanofluidics_, 21, 132, 2017. (#Equal contributions)
 
-## Before 2016
+## 2016
 5. Hanjun Jiang, Zheyao Wang, **Shujie Yang**, Heng Liu, Zhihua Wang, “CMOS wireless stress sensor IC with 256-cell sensing array for ultra-thin applications”, _Electronics Letters_, 52(20), 1660-1661, 2016.
 4. Xingjun Xue, **Shujie Yang**, Dong Wu, Liyang Pan, Zheyao Wang, “Fabrication of ultra-thin silicon chips using thermally decomposable temporary bonding adhesive”, _IEEE Sensors_, 1-3, 2016.
+
+## 2015
 3. **Shujie Yang**, Dong Wu, Zheyao Wang, Xiaoming Li, “A CMOS stress sensor chip with integrated signal processing circuits”, _IEEE Sensors_, 1-4, 2015.
 2. **Shujie Yang**, Pai Zhao, Zhen Song, Zheyao Wang, “The flexible package and applications of ultra-thin sensor chip”, _IEEE International Conference on Electronic Packaging Technology_, 1083-1085, 2015.
 1. Zhen Song, Yuxin Du, Miao Liu, **Shujie Yang**, Dong Wu, Zheyao Wang, “Three-dimensional integration of suspended single-crystalline silicon MEMS arrays with CMOS”, _IEEE MEMS_, 304-307, 2015.
