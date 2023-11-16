@@ -8,7 +8,7 @@ More about my research can be found on [Google Scholar](https://scholar.google.c
 
 ## 2023
 38. **Shujie Yang**, Joseph Rufo, Ruoyu Zhong, Joseph Rich, Zeyu Wang, Luke P. Lee, and Tony Jun Huang, "Acoustic tweezers for high-throughput single-cell analysis", _Nature Protocols_, 18, 2441–2458, 2023. (_Featured as front cover image_)
-  * Featured in _Science Spotlight_, _Brigham Research Institute_, 2023.
+  * Featured in _Science Spotlight_, _[Brigham Research Institute](http://www.bwhresearch.org/about/)_, 2023.
 37. Liang Shen, Zhenhua Tian, Jinxin Zhang, Haodong Zhu, Kaichun Yang, Teng Li, Joseph Rich, Neil Upreti, Nanjing Hao, Zhichao Pei, Geonsoo Jin, **Shujie Yang**, Yaosi Liang, Wang Chaohui, Tony Jun Huang, “Acousto-dielectric tweezers for size-insensitive manipulation and biophysical characterization of single cells”, _Biosensors and Bioelectronics_, 224, 115061, 2023.
 
 ## 2022
