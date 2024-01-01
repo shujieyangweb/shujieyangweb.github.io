@@ -8,12 +8,13 @@ More about my research can be found on [Google Scholar](https://scholar.google.c
 
 ## 2024
 1. Joseph Rich, Brian Cole, Teng Li, Brandon Lu, Hanyu Fu, Brittany Smith, Jianping Xia, **Shujie Yang**, Ruoyu Zhong, James L. Doherty, Kanji Kaneko, Hiroaki Suzuki, Zhenhua Tian, Aaron D. Franklin, and Tony Jun Huang, "Aerosol Jet Printing Surface Acoustic Wave Microfluidic Devices", _Microsystems & Nanoengineering_, 10, 2, 2024.
+
 ## 2023
-40. Ruoyu Zhong, Matthew Sullivan, Neil Upreti, Roy Chen, Agustin De Ganzó, Kaichun Yang, **Shujie Yang**, Ke Jin, Ye He, Ke Li, Jianping Xia, Zhiteng Ma, Luke P. Lee, Tania Konry, and Tony Jun Huang, "Cellular Immunity Analysis by Modular Acoustofluidic Platform: CIAMAP", _Science advances_, 9, eadj9964, 2023.
-39. Ye He, **Shujie Yang**, Pengzhan Liu, Ke Li, Ke Jin, Ryan Becker, Jinxin Zhang, Chuanchuan Lin, Jianping Xia, Zhehan Ma, Zhiteng Ma, Ruoyu Zhong, Luke P. Lee, and Tony Jun Huang, "Acoustofluidic Interfaces for the Mechanobiological Secretome of MSCs", _Nature Communications_, 14, 7639, 2023. 
-38. **Shujie Yang**, Joseph Rufo, Ruoyu Zhong, Joseph Rich, Zeyu Wang, Luke P. Lee, and Tony Jun Huang, "Acoustic tweezers for high-throughput single-cell analysis", _Nature Protocols_, 18, 2441–2458, 2023. (_Featured as front cover image_)
+1. Ruoyu Zhong, Matthew Sullivan, Neil Upreti, Roy Chen, Agustin De Ganzó, Kaichun Yang, **Shujie Yang**, Ke Jin, Ye He, Ke Li, Jianping Xia, Zhiteng Ma, Luke P. Lee, Tania Konry, and Tony Jun Huang, "Cellular Immunity Analysis by Modular Acoustofluidic Platform: CIAMAP", _Science advances_, 9, eadj9964, 2023.
+2. Ye He, **Shujie Yang**, Pengzhan Liu, Ke Li, Ke Jin, Ryan Becker, Jinxin Zhang, Chuanchuan Lin, Jianping Xia, Zhehan Ma, Zhiteng Ma, Ruoyu Zhong, Luke P. Lee, and Tony Jun Huang, "Acoustofluidic Interfaces for the Mechanobiological Secretome of MSCs", _Nature Communications_, 14, 7639, 2023. 
+3. **Shujie Yang**, Joseph Rufo, Ruoyu Zhong, Joseph Rich, Zeyu Wang, Luke P. Lee, and Tony Jun Huang, "Acoustic tweezers for high-throughput single-cell analysis", _Nature Protocols_, 18, 2441–2458, 2023. (_Featured as front cover image_)
   * Featured in _Science Spotlight_, [Brigham Research Institute](http://www.bwhresearch.org/about/), 2023.
-37. Liang Shen, Zhenhua Tian, Jinxin Zhang, Haodong Zhu, Kaichun Yang, Teng Li, Joseph Rich, Neil Upreti, Nanjing Hao, Zhichao Pei, Geonsoo Jin, **Shujie Yang**, Yaosi Liang, Wang Chaohui, Tony Jun Huang, “Acousto-dielectric tweezers for size-insensitive manipulation and biophysical characterization of single cells”, _Biosensors and Bioelectronics_, 224, 115061, 2023.
+4. Liang Shen, Zhenhua Tian, Jinxin Zhang, Haodong Zhu, Kaichun Yang, Teng Li, Joseph Rich, Neil Upreti, Nanjing Hao, Zhichao Pei, Geonsoo Jin, **Shujie Yang**, Yaosi Liang, Wang Chaohui, Tony Jun Huang, “Acousto-dielectric tweezers for size-insensitive manipulation and biophysical characterization of single cells”, _Biosensors and Bioelectronics_, 224, 115061, 2023.
 
 ## 2022
 36. Jinxin Zhang, Chuyi Chen, Ryan Becker, Joseph Rufo, **Shujie Yang**, John Mai, Peiran Zhang, Yuyang Gu, Zeyu Wang, Zhehan Ma, Jianping Xia, Nanjing Hao, Zhenhua Tian, David T. W. Wong, Yoel Sadovsky, Luke P. Lee, and Tony Jun Huang, “A Solution to the Biophysical Fractionation of Extracellular Vesicles: Acoustic Nanoscale Separation via Wave-pillar Excitation Resonance (ANSWER)”, _Science Advances_, 8, eade0640, 2022.
