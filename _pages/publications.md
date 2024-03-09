@@ -7,7 +7,7 @@ author_profile: true
 More about my research can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=MG6PLhIAAAAJ) profile and [ResearchGate](https://www.researchgate.net/profile/Shujie-Yang-5) profile.
 
 ## 2024
-1. Ty D. Naquin, Aidan J. Canning, Yuyang Gu, Jianing Chen, Chloe M Naquin, Jianping Xia, Brandon Lu, **Shujie Yang**, Aleksandra Koroza, Katherine Lin, Hsin-Neng Wang, William R. Jeck, Luke P. Lee, Tuan Vo-Dinh, and Tony Jun Huang, "Acoustic Separation and Concentration of Exosomes for Nucleotide Detection: ASCENDx", _Science Advances_, Accepted, 2024.
+1. Ty D. Naquin, Aidan J. Canning, Yuyang Gu, Jianing Chen, Chloe M Naquin, Jianping Xia, Brandon Lu, **Shujie Yang**, Aleksandra Koroza, Katherine Lin, Hsin-Neng Wang, William R. Jeck, Luke P. Lee, Tuan Vo-Dinh, and Tony Jun Huang, "Acoustic Separation and Concentration of Exosomes for Nucleotide Detection: ASCENDx", _Science Advances_, 10, eadm8597, 2024.
 2. Joseph Rich, Brian Cole, Teng Li, Brandon Lu, Hanyu Fu, Brittany Smith, Jianping Xia, **Shujie Yang**, Ruoyu Zhong, James L. Doherty, Kanji Kaneko, Hiroaki Suzuki, Zhenhua Tian, Aaron D. Franklin, and Tony Jun Huang, "Aerosol Jet Printing Surface Acoustic Wave Microfluidic Devices", _Microsystems & Nanoengineering_, 10, 2, 2024.
 
 ## 2023
