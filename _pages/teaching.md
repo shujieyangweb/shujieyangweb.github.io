@@ -12,7 +12,7 @@ redirect_from:
 Guest Lecture
 ======
 * ME 535: Biomedical Microsystems 
-    * Graduate course, Duke University, Spring, 2023 
+    * Graduate course, Duke University, Spring, 2023 and 2024 
 
 Teaching Assistant
 ======
