@@ -28,7 +28,7 @@ Research Interests
 
 News
 ======
-* 2024.04 - I accepted an offer to join the faculty of the University of Pennsylvania at the rank of Assistant Professor within the Department of Mechanical Engineering and Applied Mechanics ([MEAM](https://www.me.upenn.edu/)). 
+* 2024.04 - I accepted an offer to join the faculty of the University of Pennsylvania at the rank of Assistant Professor within the [Department of Mechanical Engineering and Applied Mechanics](https://www.me.upenn.edu/). 
 * 2023.07 - I won the [_Microgrant Award_](http://www.bwhresearch.org/microgrants/) from Brigham Research Institute, and served as the principal investigator. 
 * 2023.07 - My article "[_Acoustic tweezers for high-throughput single-cell analysis_](https://www.nature.com/articles/s41596-023-00844-5)" was published in _Nature Protocols_, and featured as [_front cover image_](https://www.nature.com/nprot/volumes/18/issues/8). 
 * 2022.05 - I won the [_Outstanding Dissertation Award_](https://pratt.duke.edu/about/news/duke-engineering-celebrates-class-2022) at Duke University. 
