@@ -16,6 +16,12 @@ I am currently serving as a Postdoctoral Research Fellow under the guidance of [
 
 I have authored/co-authored over 40 peer-reviewed articles published in renowned journals such as _Nature Materials_, _Nature Protocols_, _Nature Communications_, _Science Advances_, _Small_, and _Lab on a Chip_, among others. My articles have received more than 1,900 citations as documented by Google Scholar (h-index: 26). And my work has been featured in various popular media outlets, such as _Nature Materials, The Science Advisory Board, '2022 in science' by Wikipedia, Phys.org, and MIT Technology Review_. I also serve as a reviewer for several esteemed journals, including _Lab on a Chip, IEEE transactions on ultrasonics, ferroelectrics, and frequency control, Journal of Microelectromechanical Systems, Microfluidics and Nanofluidics, and Ultrasonics_. 
 
+Openings
+======
+* Positions for Ph.D. students: 
+* Positions for Postdocs:
+* Positions for Master and Undergraduate students:
+
 Research Interests
 ======
 * Acoustics
