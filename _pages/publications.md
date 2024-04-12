@@ -7,8 +7,10 @@ author_profile: true
 More about my research can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=MG6PLhIAAAAJ) profile and [ResearchGate](https://www.researchgate.net/profile/Shujie-Yang-5) profile.
 
 ## 2024
-1. Ty D. Naquin, Aidan J. Canning, Yuyang Gu, Jianing Chen, Chloe M Naquin, Jianping Xia, Brandon Lu, **Shujie Yang**, Aleksandra Koroza, Katherine Lin, Hsin-Neng Wang, William R. Jeck, Luke P. Lee, Tuan Vo-Dinh, and Tony Jun Huang, "Acoustic Separation and Concentration of Exosomes for Nucleotide Detection: ASCENDx", _Science Advances_, 10, eadm8597, 2024.
-2. Joseph Rich, Brian Cole, Teng Li, Brandon Lu, Hanyu Fu, Brittany Smith, Jianping Xia, **Shujie Yang**, Ruoyu Zhong, James L. Doherty, Kanji Kaneko, Hiroaki Suzuki, Zhenhua Tian, Aaron D. Franklin, and Tony Jun Huang, "Aerosol Jet Printing Surface Acoustic Wave Microfluidic Devices", _Microsystems & Nanoengineering_, 10, 2, 2024.
+1.Zhehan Ma, Jianping Xia, Neil Upreti, Emeraghi David, Joseph Rufo, Yuyang Gu, Kaichun Yang, **Shujie Yang**, Xiangchen Xu, Jean Kwun, Eileen Chambers, and Tony Jun Huang, "An Acoustofluidic Device for the Automated Separation of Platelet-reduced Plasma from Whole Blood", _Microsystems & Nanoengineering_, Accepted.
+2. Zhichao Pei, Zhenhua Tian, **Shujie Yang**, Liang Shen, Nanjing Hao, Ty D. Naquin, Teng Li, Lining Sun, Weibin Rong, and Tony Jun Huang, "Capillary-based, multifunctional manipulation of particles and fluids via focused surface acoustic waves", _Journal of Physics D: Applied Physics_, Accepted.
+3. Ty D. Naquin, Aidan J. Canning, Yuyang Gu, Jianing Chen, Chloe M Naquin, Jianping Xia, Brandon Lu, **Shujie Yang**, Aleksandra Koroza, Katherine Lin, Hsin-Neng Wang, William R. Jeck, Luke P. Lee, Tuan Vo-Dinh, and Tony Jun Huang, "Acoustic Separation and Concentration of Exosomes for Nucleotide Detection: ASCENDx", _Science Advances_, 10, eadm8597, 2024.
+4. Joseph Rich, Brian Cole, Teng Li, Brandon Lu, Hanyu Fu, Brittany Smith, Jianping Xia, **Shujie Yang**, Ruoyu Zhong, James L. Doherty, Kanji Kaneko, Hiroaki Suzuki, Zhenhua Tian, Aaron D. Franklin, and Tony Jun Huang, "Aerosol Jet Printing Surface Acoustic Wave Microfluidic Devices", _Microsystems & Nanoengineering_, 10, 2, 2024.
 
 ## 2023
 1. Ruoyu Zhong, Matthew Sullivan, Neil Upreti, Roy Chen, Agustin De Ganzó, Kaichun Yang, **Shujie Yang**, Ke Jin, Ye He, Ke Li, Jianping Xia, Zhiteng Ma, Luke P. Lee, Tania Konry, and Tony Jun Huang, "Cellular Immunity Analysis by Modular Acoustofluidic Platform: CIAMAP", _Science Advances_, 9, eadj9964, 2023.
