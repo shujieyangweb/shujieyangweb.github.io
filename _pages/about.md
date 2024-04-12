@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-**I will be joining the Department of Mechanical Engineering and Applied Mechanics ([MEAM](https://www.me.upenn.edu/)) at the University of Pennsylvania as a tenure-track Assistant Professor starting in August 2024.**
+**I will be joining the Department of Mechanical Engineering and Applied Mechanics at the [University of Pennsylvania](https://www.upenn.edu/) as a tenure-track Assistant Professor starting in August 2024.**
 
 I am currently serving as a Postdoctoral Research Fellow under the guidance of [Prof. Luke P. Lee](https://connects.catalyst.harvard.edu/Profiles/display/Person/165825) at Brigham and Women's Hospital, Harvard Medical School. Prior to this, I obtained my PhD degree in Mechanical Engineering and Materials Science from Duke University, under the supervision of [Prof. Tony Jun Huang](https://acoustofluidics.pratt.duke.edu/people/tony-jun-huang). My research primarily focuses on Acoustics, Microfluidics, and Biomedical Devices, with a particular interest in applying novel micro/nano technologies in the fields of mechanical engineering and biomedical engineering. 
 
@@ -28,7 +28,7 @@ Research Interests
 
 News
 ======
-* 2024.04 - I accepted an offer to join the faculty of the [University of Pennsylvania](https://www.upenn.edu/) at the rank of Assistant Professor within the Department of Mechanical Engineering and Applied Mechanics. 
+* 2024.04 - I accepted an offer to join the faculty of the University of Pennsylvania at the rank of Assistant Professor within the Department of Mechanical Engineering and Applied Mechanics ([MEAM](https://www.me.upenn.edu/)). 
 * 2023.07 - I won the [_Microgrant Award_](http://www.bwhresearch.org/microgrants/) from Brigham Research Institute, and served as the principal investigator. 
 * 2023.07 - My article "[_Acoustic tweezers for high-throughput single-cell analysis_](https://www.nature.com/articles/s41596-023-00844-5)" was published in _Nature Protocols_, and featured as [_front cover image_](https://www.nature.com/nprot/volumes/18/issues/8). 
 * 2022.05 - I won the [_Outstanding Dissertation Award_](https://pratt.duke.edu/about/news/duke-engineering-celebrates-class-2022) at Duke University. 
