@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
+Work Experience
 ======
 * Brigham and Women's Hospital, Harvard Medical School
     * 2023.03 - present: Postdoctoral Research Fellow 
