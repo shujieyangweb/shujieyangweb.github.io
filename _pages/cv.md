@@ -9,18 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-
-* Duke University, 2021
-    * Ph.D. in Mechanical Engineering and Materials Science 
-    * Advisor: [Prof. Tony Jun Huang](https://acoustofluidics.pratt.duke.edu/people/tony-jun-huang)
-* Tsinghua University, 2015
-    * M.S. in Integrated Circuit Engineering
-    * Advisor: [Prof. Zheyao Wang](https://main.ime.tsinghua.edu.cn/members.html)
-* Harbin Institute of Technology, 2011
-    * B.S. in Mechanical Design Manufacturing and Automation
-
 Work experience
 ======
 * Brigham and Women's Hospital, Harvard Medical School
@@ -33,5 +21,16 @@ Work experience
 * Department of Microelectronics and Nanoelectronics, Tsinghua University
     * 2012.09 - 2015.12: Research Assistant
 
-  
+Education
+======
+
+* Duke University, 2021
+    * Ph.D. in Mechanical Engineering and Materials Science 
+    * Advisor: [Prof. Tony Jun Huang](https://acoustofluidics.pratt.duke.edu/people/tony-jun-huang)
+* Tsinghua University, 2015
+    * M.S. in Integrated Circuit Engineering
+    * Advisor: [Prof. Zheyao Wang](https://main.ime.tsinghua.edu.cn/members.html)
+* Harbin Institute of Technology, 2011
+    * B.S. in Mechanical Design Manufacturing and Automation
+
 
