@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-I will join the Department of Mechanical Engineering and Applied Mechanics ([MEAM](https://www.me.upenn.edu/)) at the University of Pennsylvania as a tenure-track Assistant Professor this August. 
+### I will join the Department of Mechanical Engineering and Applied Mechanics ([MEAM](https://www.me.upenn.edu/)) at the University of Pennsylvania as a tenure-track Assistant Professor this August. 
 
 I am currently serving as a Postdoctoral Research Fellow under the guidance of [Prof. Luke P. Lee](https://connects.catalyst.harvard.edu/Profiles/display/Person/165825) at Brigham and Women's Hospital, Harvard Medical School. Prior to this, I obtained my PhD degree in Mechanical Engineering and Materials Science from Duke University, under the supervision of [Prof. Tony Jun Huang](https://acoustofluidics.pratt.duke.edu/people/tony-jun-huang). My research primarily focuses on Acoustics, Lab on a Chip, Acoustofluidics, and Biomedical Devices, with a particular interest in applying novel micro/nano technologies in the fields of mechanical engineering, materials science, and biomedical engineering. 
 
