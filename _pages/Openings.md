@@ -1,13 +1,8 @@
 ---
 layout: archive
-
-permalink: /
 title: "Openings"
-excerpt: "Openings"
+permalink: /Openings/
 author_profile: true
-redirect_from: 
-  - /Openings/
-  - /Openings.html
 ---
 
 If you have a passion for pioneering micro/nano technologies in the fields of mechanical engineering and biomedical engineering, I invite you to explore potential opportunities within my group. We welcome applicants with expertise in any of the following disciplines: **Engineering, Biology, Physics, Chemistry**.
