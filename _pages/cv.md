@@ -11,8 +11,10 @@ redirect_from:
 
 Work Experience
 ======
+* Department of Mechanical Engineering and Applied Mechanics, University of Pennsylvania
+    * 2024.08 - present: Assistant Professor  
 * Brigham and Women's Hospital, Harvard Medical School
-    * 2023.03 - present: Postdoctoral Research Fellow 
+    * 2023.03 - 2024.07: Postdoctoral Research Fellow 
 * Thomas Lord Department of Mechanical Engineering and Materials Science, Duke University
     * 2022.01 - 2023.03: Postdoctoral Associate
     * 2016.08 - 2021.12: Research Assistant
