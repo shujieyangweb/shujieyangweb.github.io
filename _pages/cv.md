@@ -13,6 +13,8 @@ Work Experience
 ======
 * Department of Mechanical Engineering and Applied Mechanics, University of Pennsylvania
     * 2024.08 - present: Assistant Professor  
+* Center for Precision Engineering for Health, University of Pennsylvania
+    * 2024.08 - present: Core faculty member   
 * Brigham and Women's Hospital, Harvard Medical School
     * 2023.03 - 2024.07: Postdoctoral Research Fellow 
 * Thomas Lord Department of Mechanical Engineering and Materials Science, Duke University
