@@ -18,7 +18,7 @@ I have authored/co-authored over 40 peer-reviewed articles published in renowned
 
 Openings
 ======
-My group has multiple positions available for Ph.D. students, postdocs, master's, and undergraduate students for the Fall 2024 and the Spring/Fall 2025. If you are interested in joining my group at the University of Pennsylvania, please send me an email (yang35@seas.upenn.edu) with your CV.
+My group has multiple positions available for Ph.D. students, postdocs, master's, and undergraduate students for the Fall 2024 and the Spring/Fall 2025. If you are interested in joining my group at the University of Pennsylvania, please send me an email (shujie.yang@seas.upenn.edu) with your CV.
 
 Research Interests
 ======
