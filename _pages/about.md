@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a tenure-track Assistant Professor in the Department of Mechanical Engineering and Applied Mechanics at the [University of Pennsylvania](https://www.upenn.edu/). Additionally, I am a core faculty member in the [Center for Precision Engineering for Health](https://cpe4h.seas.upenn.edu/) within the School of Engineering and Applied Science at Penn. 
+I am currently a tenure-track Assistant Professor in the Department of Mechanical Engineering and Applied Mechanics at the [University of Pennsylvania](https://www.upenn.edu/). Additionally, I am a core faculty member of the [Center for Precision Engineering for Health](https://cpe4h.seas.upenn.edu/) and a member of the [Bioengineering](https://be.seas.upenn.edu/) Graduate Group within the School of Engineering and Applied Science at Penn. 
 
 I obtained my PhD in Mechanical Engineering and Materials Science from Duke University in 2021, under the supervision of [Prof. Tony Jun Huang](https://acoustofluidics.pratt.duke.edu/people/tony-jun-huang). Prior to joining Penn, I served as a Postdoctoral Research Fellow at Brigham and Women's Hospital, Harvard Medical School, under the guidance of [Prof. Luke P. Lee](https://connects.catalyst.harvard.edu/Profiles/display/Person/165825). My research primarily focuses on Acoustics, Microfluidics, and Biomedical Devices, with a particular interest in applying novel micro/nano technologies in the fields of mechanical engineering and biomedical engineering. 
 
