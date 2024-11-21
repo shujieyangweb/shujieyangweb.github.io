@@ -7,7 +7,7 @@ author_profile: true
 More about my research can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=MG6PLhIAAAAJ) profile and [ResearchGate](https://www.researchgate.net/profile/Shujie-Yang-5) profile.
 
 ## 2024
-1. Mengxi Wu, Zhiteng Ma, Zhenhua Tian, Joseph T. Rich, Xin He, Jianping Xia, Ye He, Kaichun Yang, **Shujie Yang**, Kam W. Leong, Luke P. Lee, Tony Jun Huang, "Sound Innovations for Biofabrication and Tissue Engineering", _Microsystems & Nanoengineering_, Accepted.
+1. Mengxi Wu, Zhiteng Ma, Zhenhua Tian, Joseph T. Rich, Xin He, Jianping Xia, Ye He, Kaichun Yang, **Shujie Yang**, Kam W. Leong, Luke P. Lee, Tony Jun Huang, "Sound Innovations for Biofabrication and Tissue Engineering", _Microsystems & Nanoengineering_, 10, 170, 2024.
 2. Xianchen Xu, Ke Jin, Kaichun Yang, Ruoyu Zhong, Mingyuan Liu, Wesley Collyer, Shivam Jain, Ying Chen, Jianping Xia, Junfei Li, **Shujie Yang**, Earl H. Dowell, Tony Jun Huang, "Acoustofluidic tweezers via ring resonance", _Science Advances_, 10, eads2654, 2024. (_Featured as front cover image_)
 3. Jianping Xia, Zeyu Wang, Ryan Becker, Feng Li, Fang Wei, **Shujie Yang**, Joseph Rich, Ke Li, Joseph Rufo, Jiao Qian, Kaichun Yang, Chuyi Chen, Yuyang Gu, Ruoyu Zhong, Patty J. Lee, David T. W. Wong, Luke P. Lee, Tony Jun Huang, "Acoustofluidic Virus Isolation via Bessel Beam Excitation Separation Technology", _ACS Nano_, 18, 22596, 2024.
 4. Ty Naquin, Shivam Jain, Jinxin Zhang, Xianchen Xu, Gary Yao, Chloe M Naquin, **Shujie Yang**, Jianping Xia, Janna Wang, Sebastian Jimenez, Tony Jun Huang, "An acoustofluidic picoinjector", _Sensors and Actuators B: Chemical_, 418, 136294, 2024.
