@@ -32,7 +32,7 @@ News
 * 2024.10 – Welcome Zach Margaris, an M.S. student from the Department of Materials Science and Engineering at Penn, to the Yang Lab!
 * 2024.10 – Welcome Eddie Wang, an M.S. student from the Department of Mechanical Engineering and Applied Mechanics at Penn, to the Yang Lab!
 * 2024.09 – Welcome Dehang Zhu, an M.S. student from the Department of Chemical and Biomolecular Engineering at Penn, to the Yang Lab!
-* 2024.08 – Dr. Yang joins the University of Pennsylvania as an Assistant Professor in the Department of Mechanical Engineering and Applied Mechanics.
+* 2024.08 – Dr. Yang joined the University of Pennsylvania as an Assistant Professor in the Department of Mechanical Engineering and Applied Mechanics.
 * 2023.07 - Dr. Yang won the [_Microgrant Award_](http://www.bwhresearch.org/microgrants/) from Brigham Research Institute, and served as the principal investigator. 
 * 2023.07 - Dr. Yang's article "[_Acoustic tweezers for high-throughput single-cell analysis_](https://www.nature.com/articles/s41596-023-00844-5)" was published in _Nature Protocols_, and featured as [_front cover image_](https://www.nature.com/nprot/volumes/18/issues/8). 
 * 2022.03 - Dr. Yang's article "[_Harmonic acoustics for dynamic and selective particle manipulation_](https://www.nature.com/articles/s41563-022-01210-8)" was published in _Nature Materials_. 
