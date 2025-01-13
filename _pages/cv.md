@@ -16,7 +16,7 @@ Work Experience
 * Center for Precision Engineering for Health, University of Pennsylvania
     * 2024.08 - present: Core faculty member   
 * Brigham and Women's Hospital, Harvard Medical School
-    * 2023.03 - 2024.07: Postdoctoral Research Fellow (Advisor:[Prof. Luke P. Lee](https://connects.catalyst.harvard.edu/Profiles/display/Person/165825)) 
+    * 2023.03 - 2024.07: Postdoctoral Research Fellow (Advisor: [Prof. Luke P. Lee](https://connects.catalyst.harvard.edu/Profiles/display/Person/165825)) 
 * Thomas Lord Department of Mechanical Engineering and Materials Science, Duke University
     * 2022.01 - 2023.03: Postdoctoral Associate
     * 2016.08 - 2021.12: Research Assistant
