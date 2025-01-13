@@ -14,11 +14,11 @@ I am currently a tenure-track Assistant Professor in the [Department of Mechanic
 
 I have authored/co-authored over 40 peer-reviewed articles published in renowned journals such as _Nature Materials_, _Nature Protocols_, _Nature Communications_, _Science Advances_, _Small_, and _Lab on a Chip_, among others. My articles have received more than 2,000 citations as documented by Google Scholar (h-index: 29). And my work has been featured in various popular media outlets, such as _Nature Materials, The Science Advisory Board, '2022 in science' by Wikipedia, Phys.org, and MIT Technology Review_. I also serve as a reviewer for several esteemed journals, including _Lab on a Chip, IEEE transactions on ultrasonics, ferroelectrics, and frequency control, Journal of Microelectromechanical Systems, Microfluidics and Nanofluidics, and Ultrasonics_. 
 
-I obtained my PhD in Mechanical Engineering and Materials Science from Duke University in 2021, under the supervision of [Prof. Tony Jun Huang](https://acoustofluidics.pratt.duke.edu/people/tony-jun-huang). Prior to joining Penn, I served as a Postdoctoral Research Fellow at Brigham and Women's Hospital, Harvard Medical School, under the guidance of [Prof. Luke P. Lee](https://connects.catalyst.harvard.edu/Profiles/display/Person/165825). My research primarily focuses on Acoustics, Microfluidics, and Biomedical Devices, with a particular interest in applying novel micro/nano technologies in the fields of mechanical engineering and biomedical engineering. 
+I obtained my PhD in Mechanical Engineering and Materials Science from Duke University in 2021. Prior to joining Penn, I served as a Postdoctoral Research Fellow at Brigham and Women's Hospital, Harvard Medical School. My research primarily focuses on Acoustics, Microfluidics, and Biomedical Devices, with a particular interest in applying novel micro/nano technologies in the fields of mechanical engineering and biomedical engineering. 
 
 Openings
 ======
-My group has multiple positions available for Ph.D. students, postdocs, master's, and undergraduate students for the Fall 2025 and Spring 2026. If you are interested in joining my group at the University of Pennsylvania, please send me an email (shujie.yang@seas.upenn.edu) with your CV and transcripts.
+My group has multiple positions available for Ph.D. students, postdocs, master's, and undergraduate students for the Fall 2025 and Spring/Fall 2026. If you are interested in joining my group at the University of Pennsylvania, please send me an email (shujie.yang@seas.upenn.edu) with your CV and transcripts.
 
 Research Interests
 ======
