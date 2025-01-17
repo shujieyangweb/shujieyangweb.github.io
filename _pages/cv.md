@@ -18,12 +18,12 @@ Work Experience
 * Brigham and Women's Hospital, Harvard Medical School
     * 2023.03 - 2024.07: Postdoctoral Research Fellow (Advisor: [Prof. Luke P. Lee](https://connects.catalyst.harvard.edu/Profiles/display/Person/165825)) 
 * Thomas Lord Department of Mechanical Engineering and Materials Science, Duke University
-    * 2022.01 - 2023.03: Postdoctoral Associate
-    * 2016.08 - 2021.12: Research Assistant
+    * 2022.01 - 2023.03: Postdoctoral Associate (Advisor: [Prof. Luke P. Lee](https://connects.catalyst.harvard.edu/Profiles/display/Person/165825) and [Prof. Tony Jun Huang](https://acoustofluidics.pratt.duke.edu/people/tony-jun-huang)) 
+    * 2016.08 - 2021.12: Research Assistant (Advisor: Prof. Tony Jun Huang)
 * Department of Engineering Science and Mechanics, Pennsylvania State University
-    * 2016.01 - 2016.07: Research Assistant
+    * 2016.01 - 2016.07: Research Assistant (Advisor: Prof. Tony Jun Huang)
 * Department of Microelectronics and Nanoelectronics, Tsinghua University
-    * 2012.09 - 2015.12: Research Assistant
+    * 2012.09 - 2015.12: Research Assistant (Advisor: Prof. Zheyao Wang)
 
 Education
 ======
