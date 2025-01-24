@@ -26,11 +26,11 @@ Dr. Yang will serve as a PURM mentor, and the [PURM research project](https://cu
 
 * **Benefits for PURM Students:**
   
-Financial Support: Students will receive a $5,000 stipend to fully engage in their PURM project during the 10-week summer program.
+  * Financial Support: Students will receive a $5,000 stipend to fully engage in their PURM project during the 10-week summer program.
 
-Skill Development: Gain hands-on experience with the research process, attend a two-day Carpentries workshop, and access a variety of Professional Development Seminars.
+  * Skill Development: Gain hands-on experience with the research process, attend a two-day Carpentries workshop, and access a variety of Professional Development Seminars.
 
-Networking Opportunities: Present a poster showcasing your research at the CURF Research Expo.
+  * Networking Opportunities: Present a poster showcasing your research at the CURF Research Expo.
 
 * **Application Deadline:**
 Sunday, February 16, 2025, at 11:59 PM – Applications must be submitted electronically to CURF.
