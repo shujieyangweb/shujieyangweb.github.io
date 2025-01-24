@@ -22,7 +22,7 @@ My group has multiple positions available for Ph.D. students, postdocs, master's
 
 **Penn Undergraduate Research Mentoring Program (PURM)**
 
-Dr. Yang will serve as a PURM mentor, and the [PURM research project](https://curf.upenn.edu/content/penn-undergraduate-research-mentoring-program-purm) is now open for applications. Two positions are available for first- or second-year undergraduate students (currently in their 2nd or 4th semester).
+Dr. Yang will serve as a PURM mentor in 2025, and the [PURM research project](https://curf.upenn.edu/content/penn-undergraduate-research-mentoring-program-purm) is now open for applications. Two positions are available for first- or second-year undergraduate students (currently in their 2nd or 4th semester).
 
 * **Benefits for PURM Students:**
   
