@@ -6,7 +6,7 @@ author_profile: true
 ---
 Principal Investigator
 ======
-Dr. Shujie Yang
+[Dr. Shujie Yang] (https://shujieyangweb.github.io/cv/)
 
 PhD Students
 ======
