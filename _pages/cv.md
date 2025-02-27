@@ -39,3 +39,4 @@ Education
 
 Representative Publications
 ======
+**Shujie Yang**, Joseph Rufo, Ruoyu Zhong, Joseph Rich, Zeyu Wang, Luke P. Lee, and Tony Jun Huang, "Acoustic tweezers for high-throughput single-cell analysis", _Nature Protocols_, 18, 2441–2458, 2023. (_Featured as front cover image_)
