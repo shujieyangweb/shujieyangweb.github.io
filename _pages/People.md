@@ -4,3 +4,16 @@ title: "Current Members"
 permalink: /People/
 author_profile: true
 ---
+Principal Investigator
+======
+Dr. Shujie Yang
+
+PhD Students
+======
+Wenyi Huang
+
+Master Students
+======
+Eddie Wang
+Zach Margaris
+Dehang Zhu
