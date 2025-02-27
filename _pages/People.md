@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "People"
+title: "Current Members"
 permalink: /People/
 author_profile: true
 ---
