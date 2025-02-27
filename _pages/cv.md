@@ -37,4 +37,5 @@ Education
 * Harbin Institute of Technology, 2011
     * B.S. in Mechanical Design Manufacturing and Automation
 
-
+Representative Publications
+======
