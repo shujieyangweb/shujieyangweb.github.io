@@ -12,7 +12,8 @@ redirect_from:
  
 Eddie Wang
 =========
-![logo](.images/Shujie Yang_Photo.jpg)
+
+![logo](.images/bio-photo.jpg)
 
 Education
 ======
