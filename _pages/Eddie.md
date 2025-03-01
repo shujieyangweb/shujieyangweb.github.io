@@ -13,7 +13,7 @@ redirect_from:
 Eddie Wang
 =========
 
-![Photo](https://github.com/shujieyangweb/shujieyangweb.github.io/blob/master/images/logo.png)
+![Photo](https://github.com/shujieyangweb/shujieyangweb.github.io/blob/master/images/Shujie%20Yang_Photo.jpg)
 
 Education
 ======
