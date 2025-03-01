@@ -12,7 +12,7 @@ redirect_from:
 Eddie Wang
 =========
 
-[logo](/images/UniversityofPennsylvania_Shield_RGB.png)
+[logo](/images/logo.png)
 
 Education
 ======
