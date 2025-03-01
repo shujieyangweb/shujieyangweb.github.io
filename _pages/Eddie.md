@@ -12,6 +12,7 @@ redirect_from:
  
 Eddie Wang
 =========
+Email: fwanged@seas.upenn.edu
 
 ![Photo](https://github.com/shujieyangweb/shujieyangweb.github.io/blob/master/images/bio-photo.jpg)
 
