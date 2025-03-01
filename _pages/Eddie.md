@@ -9,15 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-# Site Author
-author:
-  name             : "Shujie Yang"
-  avatar           : "Shujie Yang_Photo.jpg"
-
-
-  
+ 
 Eddie Wang
 =========
+![logo](.images/logo.png)
 
 Education
 ======
