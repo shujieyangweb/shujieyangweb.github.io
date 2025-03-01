@@ -34,7 +34,7 @@ Awards and Honors:
 * 2022-2023 National Scholarship (Master)
 * Outstanding Graduates of UESTC (Master, 2024)
 * Outstanding Thesis of UESTC (Master, 2024)
-* Academic young and of UESTC and outstanding graduate student (2023)
+* Academic young of UESTC and outstanding graduate student (2023)
 * 2023-2024 First class Academic Scholarship of UESTC
 * 2022-2023 Third class Academic Scholarship of UESTC
 * 2021-2022 First class Academic Scholarship of UESTC
