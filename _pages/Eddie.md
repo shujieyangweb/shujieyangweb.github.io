@@ -1,7 +1,7 @@
 ---
 layout: archive
 
-permalink: /wenyi/
+permalink: /Eddie/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,6 +11,8 @@ redirect_from:
 
 Eddie Wang
 =========
+
+[logo](/images/UniversityofPennsylvania_Shield_RGB.png)
 
 Education
 ======
