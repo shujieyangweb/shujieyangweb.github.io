@@ -11,6 +11,7 @@ redirect_from:
 
 Wenyi Huang
 =========
+Email: wyhuang@seas.upenn.edu
 
 Education
 ======
