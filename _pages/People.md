@@ -10,7 +10,7 @@ author_profile: true
 
 ## PhD Students
 
-Wenyi Huang
+[Wenyi Huang](https://shujieyangweb.github.io/wenyi/)
 
 ## Master Students
 
