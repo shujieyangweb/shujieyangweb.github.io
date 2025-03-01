@@ -13,7 +13,7 @@ redirect_from:
 Eddie Wang
 =========
 
-![logo](.images/bio-photo.jpg)
+![Photo](images/bio-photo.jpg)
 
 Education
 ======
