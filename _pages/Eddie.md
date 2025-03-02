@@ -16,22 +16,23 @@ Eddie Wang
 
 Email: fwanged@seas.upenn.edu
 
-<table>
+<table border="0" style="border: none;">
   <tr>
-    <td align="center">
-      <img src="https://github.com/shujieyangweb/shujieyangweb.github.io/blob/master/images/bio-photo.jpg" width="100" alt="成员1"><br>
-      <strong>成员1</strong>
+    <td align="center" style="border: none;">
+      <img src="https://github.com/shujieyangweb/shujieyangweb.github.io/blob/master/images/bio-photo.jpg" width="100" alt="member1"><br>
+      <strong>member1</strong>
     </td>
-    <td align="center">
-      <img src="https://github.com/shujieyangweb/shujieyangweb.github.io/blob/master/images/bio-photo-2.jpg" width="100" alt="成员2"><br>
-      <strong>成员2</strong>
+    <td align="center" style="border: none;">
+      <img src="https://github.com/shujieyangweb/shujieyangweb.github.io/blob/master/images/bio-photo-2.jpg" width="100" alt="member2"><br>
+      <strong>member2</strong>
     </td>
-    <td align="center">
-      <img src="https://github.com/shujieyangweb/shujieyangweb.github.io/blob/master/images/bio-photo.jpg" width="100" alt="成员3"><br>
-      <strong>成员3</strong>
+    <td align="center" style="border: none;">
+      <img src="https://github.com/shujieyangweb/shujieyangweb.github.io/blob/master/images/bio-photo.jpg" width="100" alt="member3"><br>
+      <strong>member3</strong>
     </td>
   </tr>
 </table>
+
 
 
 Education
