@@ -16,6 +16,24 @@ Eddie Wang
 
 Email: fwanged@seas.upenn.edu
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/shujieyangweb/shujieyangweb.github.io/blob/master/images/bio-photo.jpg" width="100" alt="成员1"><br>
+      <strong>成员1</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/shujieyangweb/shujieyangweb.github.io/blob/master/images/bio-photo-2.jpg" width="100" alt="成员2"><br>
+      <strong>成员2</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/shujieyangweb/shujieyangweb.github.io/blob/master/images/bio-photo.jpg" width="100" alt="成员3"><br>
+      <strong>成员3</strong>
+    </td>
+  </tr>
+</table>
+
+
 Education
 ======
 * University of Pennsylvania, 2024.08 ~ present
