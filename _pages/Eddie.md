@@ -19,15 +19,15 @@ Email: fwanged@seas.upenn.edu
 <table border="0" style="border: none;">
   <tr>
     <td align="center" style="border: none;">
-      <img src="https://github.com/shujieyangweb/shujieyangweb.github.io/blob/master/images/bio-photo.jpg" width="100" alt="member1"><br>
+      <img src="https://github.com/shujieyangweb/shujieyangweb.github.io/blob/master/images/bio-photo.jpg" width="200" alt="member1"><br>
       <strong>member1</strong>
     </td>
     <td align="center" style="border: none;">
-      <img src="https://github.com/shujieyangweb/shujieyangweb.github.io/blob/master/images/bio-photo-2.jpg" width="100" alt="member2"><br>
+      <img src="https://github.com/shujieyangweb/shujieyangweb.github.io/blob/master/images/bio-photo-2.jpg" width="200" alt="member2"><br>
       <strong>member2</strong>
     </td>
     <td align="center" style="border: none;">
-      <img src="https://github.com/shujieyangweb/shujieyangweb.github.io/blob/master/images/bio-photo.jpg" width="100" alt="member3"><br>
+      <img src="https://github.com/shujieyangweb/shujieyangweb.github.io/blob/master/images/bio-photo.jpg" width="200" alt="member3"><br>
       <strong>member3</strong>
     </td>
   </tr>
