@@ -25,8 +25,8 @@ Education
 
 Selected Publications
 ======
-1. **Wenyi Huang**#, Qutong yang#, Chen Fu, et al. “Integrated Rayleigh wave streaming-enhanced sensitivity of shear horizontal surface acoustic wave biosensors”, _Biosensors and Bioelectronics_, 2024.
-2. Qutong yang#, **Wenyi Huang**#, Chen Fu, et al. “Unique lateral-to-surface acoustic wetting enables highly efficient edge-effect surface acoustic wave atomization”, _Ultrasonic_, 2024.
+1. **Wenyi Huang**#, Qutong yang#, Chen Fu, et al. “Integrated Rayleigh wave streaming-enhanced sensitivity of shear horizontal surface acoustic wave biosensors”, _Biosensors and Bioelectronics_, 247, 115944, 2024.
+2. Qutong yang#, **Wenyi Huang**#, Chen Fu, et al. “Unique lateral-to-surface acoustic wetting enables highly efficient edge-effect surface acoustic wave atomization”, _Ultrasonics_, 142, 107359, 2024.
 
 Awards and Honors:
 ======
