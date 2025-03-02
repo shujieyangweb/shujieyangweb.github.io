@@ -14,7 +14,7 @@ author_profile: true
 
 ## Master Students
 
-Eddie Wang
+[Eddie Wang](https://shujieyangweb.github.io/Eddie/)
 
 Zach Margaris
 
