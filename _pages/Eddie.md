@@ -12,7 +12,7 @@ redirect_from:
  
 Eddie Wang
 =========
-![logo](images/bio-photo.jpg)
+![logo](logo.png)
 
 Email: fwanged@seas.upenn.edu
 
