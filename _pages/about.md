@@ -12,6 +12,8 @@ redirect_from:
 
 **This website will no longer be updated. For more information, please visit our lab website at [https://shujieyang.seas.upenn.edu/](https://shujieyang.seas.upenn.edu/).**
 
+
+
 About Dr. Yang
 ======
 Dr. Shujie Yang is currently a tenure-track Assistant Professor in the [Department of Mechanical Engineering and Applied Mechanics](https://www.me.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/). Additionally, I am a core faculty member of the [Center for Precision Engineering for Health](https://cpe4h.seas.upenn.edu/) and a member of the [Bioengineering](https://be.seas.upenn.edu/) Graduate Group within the School of Engineering and Applied Science at Penn. 
