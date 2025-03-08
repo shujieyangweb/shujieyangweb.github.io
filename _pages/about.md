@@ -2,7 +2,7 @@
 layout: archive
 
 permalink: /
-title: "About"
+title: ""
 excerpt: "About Dr. Yang"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-About Dr. Shujie Yang
+About Dr. Yang
 ======
 Dr. Shujie Yang is currently a tenure-track Assistant Professor in the [Department of Mechanical Engineering and Applied Mechanics](https://www.me.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/). Additionally, I am a core faculty member of the [Center for Precision Engineering for Health](https://cpe4h.seas.upenn.edu/) and a member of the [Bioengineering](https://be.seas.upenn.edu/) Graduate Group within the School of Engineering and Applied Science at Penn. 
 
