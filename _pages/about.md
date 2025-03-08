@@ -2,7 +2,7 @@
 layout: archive
 
 permalink: /
-title: "About Dr. Yang"
+title: "About"
 excerpt: "About Dr. Yang"
 author_profile: true
 redirect_from: 
