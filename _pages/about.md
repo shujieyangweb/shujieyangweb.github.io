@@ -9,8 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-About
-======
+
 Dr. Shujie Yang is currently a tenure-track Assistant Professor in the [Department of Mechanical Engineering and Applied Mechanics](https://www.me.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/). Additionally, I am a core faculty member of the [Center for Precision Engineering for Health](https://cpe4h.seas.upenn.edu/) and a member of the [Bioengineering](https://be.seas.upenn.edu/) Graduate Group within the School of Engineering and Applied Science at Penn. 
 
 Dr. Yang has authored/co-authored over 40 peer-reviewed articles published in renowned journals such as _Nature Materials_, _Nature Protocols_, _Nature Communications_, _Science Advances_, _Small_, and _Lab on a Chip_, among others. His articles have received more than 2,400 citations as documented by Google Scholar (h-index: 29). And his work has been featured in various popular media outlets, such as _Nature Materials, The Science Advisory Board, '2022 in science' by Wikipedia, Phys.org, and MIT Technology Review_. Dr. Yang also serves as a reviewer for several esteemed journals, including _Science Advances, Lab on a Chip, IEEE transactions on ultrasonics, ferroelectrics, and frequency control, Journal of Microelectromechanical Systems, Microfluidics and Nanofluidics, and Ultrasonics_. 
