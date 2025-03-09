@@ -1,9 +1,17 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
+
+<p>
+<text style="color: blue">Note: This website will no longer be updated. For more information, please visit our lab website at https://shujieyang.seas.upenn.edu/.</text>
+</p>
+
+Publications
+====
+
 More about my research can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=MG6PLhIAAAAJ) profile and [ResearchGate](https://www.researchgate.net/profile/Shujie-Yang-5) profile.
 
 ## 2025
