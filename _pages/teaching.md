@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 <p>
-<text style="color: blue">Note: This website will no longer be updated. For more information, please visit our lab website at</text>
+<text style="color: blue">Note: This website will no longer be updated. For more information, please visit our lab website at</text>[https://shujieyang.seas.upenn.edu/](https://shujieyang.seas.upenn.edu/)
 </p>
-[https://shujieyang.seas.upenn.edu/](https://shujieyang.seas.upenn.edu/)
+
 
 University of Pennsylvania
 ======
