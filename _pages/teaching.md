@@ -9,8 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-```diff
-- course
+<p>
+Quack quack
+<text style="color: red">ERROR</text>
+</p>
 
 University of Pennsylvania
 ======
