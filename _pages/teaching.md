@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+```diff
+- course
+
 University of Pennsylvania
 ======
 * MEAM 5180: Biomedical Microsystems 
@@ -17,10 +20,6 @@ University of Pennsylvania
 * MEAM 6900: Biomedical Microsystems 
     * Graduate course, Spring, 2025
     * MW 1:45pm-3:14pm (1/15 to 4/30, 2025)
-    *
-
-```diff
-- course
     
 Duke University
 ======
