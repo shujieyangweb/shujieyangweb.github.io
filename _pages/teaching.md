@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <p>
-<text style="color: red">**This website will no longer be updated. For more information, please visit our lab website at [https://shujieyang.seas.upenn.edu/](https://shujieyang.seas.upenn.edu/).**</text>
+<text style="color: blue">This website will no longer be updated. For more information, please visit our lab website at https://shujieyang.seas.upenn.edu/</text>
 </p>
 
 University of Pennsylvania
