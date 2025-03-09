@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 <p>
-Quack quack
 <text style="color: red">ERROR</text>
 </p>
 
