@@ -12,7 +12,7 @@ author_profile: true
 Publications
 ====
 
-More about my research can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=MG6PLhIAAAAJ) profile and [ResearchGate](https://www.researchgate.net/profile/Shujie-Yang-5) profile.
+More about our research can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=MG6PLhIAAAAJ) profile and [ResearchGate](https://www.researchgate.net/profile/Shujie-Yang-5) profile.
 
 ## 2025
 1. Shuaiguo Zhao, Zhenhua Tian, Chen Shen, **Shujie Yang**, Jianping Xia, Teng Li, Zhemiao Xie, Peiran Zhang, Luke P. Lee, Steven A. Cummer, Tony J. Huang, "Topological acoustofluidics", _Nature Materials_, Accepted, 2025.
